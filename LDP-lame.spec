@@ -6,6 +6,7 @@ Release:	1
 License:	distributable
 Group:		Documentation
 Source0:	http://www.tldp.org/LDP/lame/lame.html.tar.gz
+# Source0-md5:	2bc5df0ddf3b8d41d9ccd4683b115616
 URL:		http://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/index.html
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
