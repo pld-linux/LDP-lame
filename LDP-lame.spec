@@ -19,7 +19,7 @@ This book can be purchased from bookstores.
 
 %description -l pl
 The Linux Administration Made Easy (LAME) - próbuje opisaæ sytuacje z
-jakimi musi siê zmagaæ administrator Linuksa na codzieñ.
+jakimi musi siê zmagaæ administrator Linuksa na co dzieñ.
 
 Ksi±¿ka jest dostêpna tak¿e w ksiêgarniach.
 
