@@ -8,6 +8,7 @@ Group:		Documentation
 Source0:	http://www.tldp.org/LDP/lame/lame.html.tar.gz
 # Source0-md5:	2bc5df0ddf3b8d41d9ccd4683b115616
 URL:		http://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/index.html
+Requires:	LDP-base
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -30,7 +31,6 @@ Ksi±¿ka jest dostêpna tak¿e w ksiêgarniach.
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_docdir}/LDP/lame
-
 cp -ar * $RPM_BUILD_ROOT%{_docdir}/LDP/lame
 
 %clean
