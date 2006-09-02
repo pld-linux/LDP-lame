@@ -31,7 +31,7 @@ Ksi±¿ka jest dostêpna tak¿e w ksiêgarniach.
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_docdir}/LDP/lame
-cp -ar * $RPM_BUILD_ROOT%{_docdir}/LDP/lame
+cp -a * $RPM_BUILD_ROOT%{_docdir}/LDP/lame
 
 %clean
 rm -rf $RPM_BUILD_ROOT
