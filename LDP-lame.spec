@@ -1,5 +1,5 @@
 Summary:	LDP Linux System Administration Made Easy
-Summary(pl):	Jak sobie u³atwiæ ¿ycie - poradnik dla administratora
+Summary(pl.UTF-8):   Jak sobie uÅ‚atwiÄ‡ Å¼ycie - poradnik dla administratora
 Name:		LDP-lame
 Version:	1.06
 Release:	1
@@ -19,11 +19,11 @@ Linux system administrators.
 
 This book can be purchased from bookstores.
 
-%description -l pl
-The Linux Administration Made Easy (LAME) - próbuje opisaæ sytuacje z
-jakimi musi siê zmagaæ administrator Linuksa na co dzieñ.
+%description -l pl.UTF-8
+The Linux Administration Made Easy (LAME) - prÃ³buje opisaÄ‡ sytuacje z
+jakimi musi siÄ™ zmagaÄ‡ administrator Linuksa na co dzieÅ„.
 
-Ksi±¿ka jest dostêpna tak¿e w ksiêgarniach.
+KsiÄ…Å¼ka jest dostÄ™pna takÅ¼e w ksiÄ™garniach.
 
 %prep
 %setup -q -n linux-admin-made-easy
