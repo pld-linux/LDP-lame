@@ -1,5 +1,5 @@
 Summary:	LDP Linux System Administration Made Easy
-Summary(pl.UTF-8):   Jak sobie ułatwić życie - poradnik dla administratora
+Summary(pl.UTF-8):	Jak sobie ułatwić życie - poradnik dla administratora
 Name:		LDP-lame
 Version:	1.06
 Release:	1
